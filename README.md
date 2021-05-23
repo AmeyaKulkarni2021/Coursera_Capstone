@@ -1,5 +1,5 @@
 # Coursera_Capstone
-# Searching for optimal locations for Cloud Kitchens in Mumbai
+Searching for optimal locations for Cloud Kitchens in Mumbai
 # Project is divided into 3 stages,
 
 # Part 1 - Generating Datasets
